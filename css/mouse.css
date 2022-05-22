@@ -1,24 +1,20 @@
 /* 鼠标指针图标bynote.cn */
 
-body {
-    cursor: url(//cdn.jsdelivr.net/gh/ZCY1715/cdn@main/cursor/default.cur), auto;
-}
-
-img:hover {
+* {
     cursor: url(//cdn.jsdelivr.net/gh/ZCY1715/cdn@main/cursor/default.cur), auto;
 }
 
 /*a标签*/
 
 a:hover {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/30edde40-b932-4682-9460-382f869a6113.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
 /*按钮*/
 
 button:hover {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 #rightside>div>button,
@@ -30,50 +26,50 @@ button:hover {
     color: var(--btn-color);
     text-align: center;
     font-size: 16px;
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
 /* 文章标签 */
 
 .layout_post .tag_share .post-meta__tags {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
 /* 评论区 */
 
 .vcol * {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 .v[data-class=v] .vicon {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 .v[data-class=v] .vbtn {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
 /* 回复 */
 
 .vat {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
 /*i标签*/
 
 i:hover {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
 /*up酱*/
 
 #upj:hover {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 
@@ -81,7 +77,7 @@ i:hover {
 /*分页器*/
 
 #pagination .page-number:hover {
-    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/8327c821-050a-4901-ab27-612a2e76d123.cur), auto;
+    cursor: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-62793fd8-63a8-4d63-9f21-0986ead6de14/accd3440-06dd-4133-ad74-d63ba52e021b.cur), pointer !important;
 }
 
 /* 分页器的三个点(...) */
