@@ -4,6 +4,9 @@ body {
     cursor: url(//cdn.jsdelivr.net/gh/ZCY1715/cdn@main/cursor/default.cur), auto;
 }
 
+img:hover {
+    cursor: url(//cdn.jsdelivr.net/gh/ZCY1715/cdn@main/cursor/default.cur), auto;
+}
 
 /*a标签*/
 
